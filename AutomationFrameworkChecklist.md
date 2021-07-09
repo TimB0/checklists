@@ -1,4 +1,6 @@
-### Core Automation Framework Checklist
+### Core Unified Automation Framework Checklist
+
+Quality Engineering instead of Quality Assurance
 
 - [ ] GraphQL
   - [ ] Postman
